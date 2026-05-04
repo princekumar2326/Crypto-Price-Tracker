@@ -1,4 +1,3 @@
-<img width="1881" height="1016" alt="image" src="https://github.com/user-attachments/assets/442fbb12-490d-4305-848b-80274ba60c9e" />
 # 🚀 Crypto Price Tracker
 
 A modern and responsive web application to track real-time cryptocurrency prices, market trends, and key financial metrics.
@@ -62,6 +61,11 @@ The application fetches live cryptocurrency data from an external API and dynami
 ## 📸 Screenshots
 
 <img width="1881" height="1016" alt="image" src="https://github.com/user-attachments/assets/38dba806-08af-4514-8ae8-55352da5542b" />
+## Chatbot🔗
+<img width="1058" height="899" alt="image" src="https://github.com/user-attachments/assets/cd116fbe-ae4b-428d-9673-6f64767a6eee" />
+<img width="1048" height="887" alt="image" src="https://github.com/user-attachments/assets/276c6094-88d1-445e-9901-1f4ecbac14e8" />
+
+
 
 
 
@@ -97,5 +101,6 @@ This project is open-source and available under the MIT License.
 ---
 
 ## ⭐ Support
+
 
 If you like this project, give it a ⭐ on GitHub!
