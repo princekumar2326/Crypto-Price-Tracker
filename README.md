@@ -1,4 +1,4 @@
-
+<img width="1881" height="1016" alt="image" src="https://github.com/user-attachments/assets/442fbb12-490d-4305-848b-80274ba60c9e" />
 # 🚀 Crypto Price Tracker
 
 A modern and responsive web application to track real-time cryptocurrency prices, market trends, and key financial metrics.
@@ -61,7 +61,9 @@ The application fetches live cryptocurrency data from an external API and dynami
 
 ## 📸 Screenshots
 
-(Add your project screenshots here)
+<img width="1881" height="1016" alt="image" src="https://github.com/user-attachments/assets/38dba806-08af-4514-8ae8-55352da5542b" />
+
+
 
 ---
 
